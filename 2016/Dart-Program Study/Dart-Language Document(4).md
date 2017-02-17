@@ -1,6 +1,11 @@
-Dart 语言简易教程(一)： http://www.jianshu.com/p/8a62b1a2fd75
-Dart 语言简易教程(二)： http://www.jianshu.com/p/b2153a32dd8b
-Dart 语言简易教程(三)： http://www.jianshu.com/p/6d2495a0d3d7
+Dart 语言简易教程(一)： 
+http://www.jianshu.com/p/8a62b1a2fd75
+
+Dart 语言简易教程(二)： 
+http://www.jianshu.com/p/b2153a32dd8b
+
+Dart 语言简易教程(三)： 
+http://www.jianshu.com/p/6d2495a0d3d7
 
 # Dart 语言简易教程(四)
 ## 操作符

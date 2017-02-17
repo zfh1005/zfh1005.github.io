@@ -1,12 +1,15 @@
 # google Fuchsia系统 及 dart语言简介
 
+
 ## Fuchsia 是啥？
 Fuchsia的报道文章：
 http://www.tomshardware.com/news/google-fuchsia-new-operating-system,32475.html
 
-google正在开发的第三个操作系统: Fuchsia。主要的想用统一的OS来操作IOT设备，移动设备，PC等。
+google正在开发的第三个操作系统: 
+Fuchsia。主要的想用统一的OS来操作IOT设备，移动设备，PC等。
 
-github 地址: https://github.com/fuchsia-mirror
+github 地址: 
+https://github.com/fuchsia-mirror
 
 Fuchsia采用Magenta kernel，这是一个“Little Kernel”，与Android，chromeOS采用的 Linux kernel的不同。Magenta kernel 是更轻量，更底层，更通用的。Linux 基金会推出的针对IOT的系统 Zephyr（参考网站： https://www.linuxfoundation.org/news-media/announcements/2016/02/linux-foundation-announces-project-build-real-time-operating-system），对google来说，显得太笨重:linux kernel里面的很多东西不是google需要的。
 

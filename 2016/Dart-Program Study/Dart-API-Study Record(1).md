@@ -1,14 +1,30 @@
-Dart 语言简易教程(一)： http://www.jianshu.com/p/8a62b1a2fd75
-Dart 语言简易教程(二)： http://www.jianshu.com/p/b2153a32dd8b
-Dart 语言简易教程(三)： http://www.jianshu.com/p/6d2495a0d3d7
-Dart 语言简易教程(四):   http://www.jianshu.com/p/fdd046a6dc82
-Dart 语言简易教程(五) http://www.jianshu.com/p/83adc77839b6
-Dart 语言简易教程(六)  http://www.jianshu.com/p/78d317b2ea79
-Dart 语言简易教程(七)  http://www.jianshu.com/p/023cea0b4a52
-Dart 语言简易教程(八)  http://www.jianshu.com/p/d28292662be5
+Dart 语言简易教程(一)： 
+http://www.jianshu.com/p/8a62b1a2fd75
+
+Dart 语言简易教程(二)： 
+http://www.jianshu.com/p/b2153a32dd8b
+
+Dart 语言简易教程(三)： 
+http://www.jianshu.com/p/6d2495a0d3d7
+
+Dart 语言简易教程(四):   
+http://www.jianshu.com/p/fdd046a6dc82
+
+Dart 语言简易教程(五) 
+http://www.jianshu.com/p/83adc77839b6
+
+Dart 语言简易教程(六)  
+http://www.jianshu.com/p/78d317b2ea79
+
+Dart 语言简易教程(七)  
+http://www.jianshu.com/p/023cea0b4a52
+
+Dart 语言简易教程(八)  
+http://www.jianshu.com/p/d28292662be5
 
 # Dart API 学习记录(一)
-所有资料基于当前最新的版本：https://api.dartlang.org/stable/1.19.1/index.html
+所有资料基于当前最新的版本：
+https://api.dartlang.org/stable/1.19.1/index.html
 
 在官方提供的的API 中，有如下3个包的使用频率最高。
 - dart:core: Core functionality such as strings, numbers, collections, errors, dates, and URIs.

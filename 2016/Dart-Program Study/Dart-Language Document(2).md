@@ -1,4 +1,5 @@
-Dart 语言简易教程(一)： http://www.jianshu.com/p/8a62b1a2fd75
+Dart 语言简易教程(一)： 
+http://www.jianshu.com/p/8a62b1a2fd75
 
 # Dart 语言简易教程(二)
 ## 内建数据类型（Built-in types）

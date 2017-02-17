@@ -1,4 +1,5 @@
-在 InteIIiJ IDEA 中搭建 Dart 的开发环境： http://www.jianshu.com/p/fa275a08b083
+在 InteIIiJ IDEA 中搭建 Dart 的开发环境： 
+http://www.jianshu.com/p/fa275a08b083
 
 # Dart 语言简易教程(一)
 

@@ -1,4 +1,6 @@
-Dart API 学习记录(一)  http://www.jianshu.com/p/388d986c0f48
+Dart API 学习记录(一)  
+http://www.jianshu.com/p/388d986c0f48
+
 
 # Dart API 学习记录(二)
 ## `dart:async `库

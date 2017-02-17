@@ -1,4 +1,5 @@
-google Fuchsia系统 及 dart语言简介： http://www.jianshu.com/p/8d153c6a75d0
+google Fuchsia系统 及 dart语言简介： 
+http://www.jianshu.com/p/8d153c6a75d0
 
 # Dart Linux 开发环境搭建
 主要包括如下内容：

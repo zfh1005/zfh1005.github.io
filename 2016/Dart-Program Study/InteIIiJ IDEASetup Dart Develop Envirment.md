@@ -1,4 +1,5 @@
-Dart Linux 开发环境搭建： http://www.jianshu.com/p/f923b839f5f1
+Dart Linux 开发环境搭建： 
+http://www.jianshu.com/p/f923b839f5f1
 
 # 在 InteIIiJ IDEA 中搭建 Dart 的开发环境
 ## InteIIiJ IDEA 简介
